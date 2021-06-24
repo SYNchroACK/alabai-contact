@@ -1,2 +1,2 @@
 # alabai-contact
-Reaching out to alabai user
+Reaching out to @alabai user
